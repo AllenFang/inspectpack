@@ -1,6 +1,10 @@
 History
 =======
 
+## Current
+
+* Add file sizes to `--action=files` report.
+
 ## 0.3.0
 
 * Add `--action=files` report.
